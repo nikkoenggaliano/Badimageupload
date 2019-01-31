@@ -16,7 +16,7 @@ Diberikan sebuah halaman web dengan tampilan seperti ini.
 
 
 
-![1548839787152](C:\Users\Nikko Enggaliano\AppData\Roaming\Typora\typora-user-images\1548839787152.png)
+![Index.php](\Badimageupload\src\1.png)
 
 
 
@@ -62,7 +62,7 @@ Oke secara simple hanya boleh mengupload gambar asli. Mari kita coba.
 
 
 
-![1548840258556](C:\Users\Nikko Enggaliano\AppData\Roaming\Typora\typora-user-images\1548840258556.png)
+![](\Badimageupload\src\2.png)
 
 
 
@@ -159,7 +159,7 @@ Kita mengisi data model dengan payload `ls` dan hasilnya.
 
 
 
-![1548841811887](C:\Users\Nikko Enggaliano\AppData\Roaming\Typora\typora-user-images\1548841811887.png)
+![](\Badimageupload\src\3.png)
 
 
 
