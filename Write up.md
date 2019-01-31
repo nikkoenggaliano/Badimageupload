@@ -16,7 +16,7 @@ Diberikan sebuah halaman web dengan tampilan seperti ini.
 
 
 
-![Index.php](\Badimageupload\src\1.png)
+![](/Badimageupload/src/1.png)
 
 
 
@@ -62,7 +62,7 @@ Oke secara simple hanya boleh mengupload gambar asli. Mari kita coba.
 
 
 
-![](\Badimageupload\src\2.png)
+![](/Badimageupload/src/2.png)
 
 
 
@@ -159,7 +159,7 @@ Kita mengisi data model dengan payload `ls` dan hasilnya.
 
 
 
-![](\Badimageupload\src\3.png)
+![](/Badimageupload/src/3.png)
 
 
 
